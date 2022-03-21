@@ -1,4 +1,5 @@
-# Desafio-Pr-tica-Programa-o-Orientada-a-Objetos
+# Desafio-Prática-Programa-o-Orientada-a-Objetos
+
 Desafio Plataforma Digital Innovation One: Aprenda na Prática Programação Orientada a Objetos
 
 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
